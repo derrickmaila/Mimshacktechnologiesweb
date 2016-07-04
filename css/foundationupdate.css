@@ -1,0 +1,345 @@
+
+body{
+  background: url("../mtepictures/icons/Contact-US.jpg") repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  font-size:10px;
+  background-size: cover;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; 
+  width: 100% !important;
+  z-index: 0;
+  padding:0px;
+  margin:0px;
+
+
+}
+
+a{
+	color:#33cccc;
+	font-size: 16px;
+}
+table,tr,td{
+	color:#000033;
+	
+}
+
+.search-form{
+	margin: 0px;
+	padding: 0px;
+}
+
+#h4edit{
+	width: auto;
+	text-align: center;
+	color: #676767;
+	background: #FFFFFF;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+#h4edit1{
+	text-align: center;
+	color: #FFFFFF;
+	background: #000000;
+	font-style: italic;
+	font-weight: bold;
+
+}
+#table-icon-bar-contactus{
+	width:100%;
+	color:#242424;
+	background: grey;
+	border:  2px solid grey;
+	text-align: center;
+	padding: 0px;
+	margin:0px;
+	
+	
+}
+#table-icon-bar-contactus-th{
+	text-align: center;	
+}
+#marquee-bold{
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+}
+#first-row{
+	background:#242424;
+	padding: 0px;
+	margin:0px;
+
+}
+#advertimg{
+	margin:0em;
+	padding: 0em;
+	width: 35px;
+	height: 35px;
+}
+
+#panel1{
+	background:#131419; 
+	border: 0em;
+	padding: 0px;
+	margin:0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#panel2{
+	background:#666122; 
+	border: 0em;
+	padding: 0px;
+	margin:0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#panel3{
+	background:#141306; 
+	border: 0em;
+	padding: 0px;
+	margin:0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#img-table-contents{
+	  
+	  float:left !important;
+	  clear :right;
+	  margin-top:0px;
+	  margin-bottom: 5px;
+	  margin-right: 5px;
+	  margin-left: 5px;
+	  max-height: 200px;
+	  max-width: 150px;
+
+}
+#rightimg{
+	  
+	  float:right;
+	  max-height: 200px;
+	  max-width: 150px;
+	  overflow: auto;
+
+}
+#leftimg{
+	  
+	  float:left;
+	  max-height: 200px;
+	  max-width: 150px;
+	  overflow: auto;
+
+}
+
+#centercontents{
+	float:center !important;
+	overflow: auto;
+}
+
+table{
+	border:0em;
+}
+
+#panelcolumnfirst{
+	background-color:#0a1a2a;
+	margin: 0px;
+	padding:0px; 
+}
+#panelcolumnsecond{
+	background-color:#F9F9F9;
+	margin: 0px;
+	padding:0px; 
+}
+#panelcolumnthird{
+	background-color:#0a1a2a;
+	margin: 0px;
+	padding:0px; 
+}
+#panelcolumnfourth{
+	background-color:#F9F9F9;
+	margin: 0px;
+	padding:0px; 
+}
+#aboutusback{
+	 background:#0a1a29;
+	 color: #150d05;
+}
+#table-contents-index{
+	 border:0em;
+	 text-align: left;
+	 
+}
+#table-contents-index-td{
+	color:#150d05;
+}
+#sitemaps{
+	background-color: #0a1a29;
+	text-align: center;
+	font-size: larger;
+}
+p{
+	margin:0em;
+	padding: 0em;
+}
+#contactsnew{
+	color:#f9f9f9;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#contactdetail{
+	color: #141414;
+	margin:0px;
+	padding: 0px;
+	background-color: #eae6b4;
+}
+#footerid2{
+	margin:0em;
+	padding:0em;
+	background-color:brown;
+	text-align:center;
+	font-style: italic;
+}
+
+#footerid{	
+	background: beige;
+	text-align: center;
+	color: #141414;
+}
+
+#header1{
+	font-family: sans-serif;
+	font-size: 22px;
+	font-color:black;
+	font-weight: bold;
+	text-align: center;
+}
+
+#table-contents-index{
+	 border:0em;
+	 text-align: left;
+	 background:#0a1a29;
+	 color: #150d05;
+}
+
+#overaboutusreal{
+
+	background:#0a1a29;
+	color: #150d05;
+}
+
+#missionli{
+		font-size:17px;
+		font-style: italic;
+		text-align: auto; 
+}
+
+
+#aboutuspar1{
+	font-size: 18px;
+	text-align: center;
+	font-style: italic;
+					
+}
+
+
+#aboutusheading{
+	font-size:17px;
+	background:#edecda;
+	color: #2ab;
+	text-align: center;
+	font-style: italic;
+}
+#header2{
+	font-family: sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	font-color:black;
+	font-style: italic;
+	text-align: center;
+	color: brown;
+	margin:0px;
+	padding:0px;
+}
+
+#advertleft{
+	text-align: center;
+	margin:0em;
+	padding: 0em;
+	background: black;
+	background-image: url("../mtepictures/layouts/bgbody.jpg");
+}
+#advertcenter{
+	text-align: center;
+	margin:0em;
+	padding: 0em;
+/*
+	background: #14a52;
+*/
+	background: #0a1a29;
+	/*
+	background-image: url("../mtepictures/layouts/bgbody.jpg");
+	*/
+}
+#advertright{
+	text-align: center;
+	margin:0em;
+	padding: 0em;
+	background: black;
+	background-image: url("../mtepictures/layouts/bgbody.jpg");
+}
+#firstheaders{
+	margin: 0em;
+	padding:0em;
+	background:#ccc244;
+	 
+}
+#container{
+	background:black;
+}
+#pipedec{
+	color: white;
+}
+#img-adverts{
+
+	  float:left !important;
+	  margin:0em;
+	  height:150px;
+	  width: 300px;
+
+}
+#mtemove{
+	margin: 0em;
+	padding: 0em;
+	color:silver;
+}
+#Godlove{
+	text-align: center;
+	color:#245;
+	font-style: italic;
+	font-size: 13px;
+}
+
+  .size-12 { font-size: 12px; }
+  
+  .size-14 { font-size: 14px; }
+  
+  .size-16 { font-size: 16px; }
+  
+  .size-18 { font-size: 18px; }
+  
+  .size-21 { font-size: 21px; }
+  
+  .size-24 { font-size: 24px; }
+  
+  .size-36 { font-size: 36px; }
+  
+  .size-48 { font-size: 48px; }
+  
+  .size-60 { font-size: 60px; }
+  
+  .size-72 { font-size: 72px; }
+
